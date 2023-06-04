@@ -1,0 +1,5 @@
+﻿  mandelbrot.cpp
+C:\Users\hamis\source\repos\2002431 Hamish Hill CMP202 Project\mandelbrot\mandelbrot.cpp(116,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+mandelbrot.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  mandelbrot.vcxproj -> C:\Users\hamis\source\repos\2002431 Hamish Hill CMP202 Project\x64\Debug\mandelbrot.exe

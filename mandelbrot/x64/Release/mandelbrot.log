@@ -1,0 +1,7 @@
+﻿  mandelbrot.cpp
+F:\Abertay\_project\mandelbrot\mandelbrot\mandelbrot.cpp(117,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 308 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mandelbrot.vcxproj -> F:\Abertay\_project\mandelbrot\x64\Release\mandelbrot.exe
